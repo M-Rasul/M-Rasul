@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning ReactJS with all its libraries
 - 💞️ I’m looking to collaborate on a big project
-- 📫 How to reach me: My Telegram account - t.me/madridista2002
+- 📫 How to reach me: My Telegram account - t.me/rasulmadrid
 
 <!---
 M-Rasul/M-Rasul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
