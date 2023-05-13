@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Rasul
-- 👀 I’m interested in Full-Stack development
+- 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning ReactJS with all its libraries
 - 💞️ I’m looking to collaborate on a big project
 - 📫 How to reach me: My Telegram account - t.me/rasulmadrid
