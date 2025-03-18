@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @M-Rasul
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning ReactJS with all its libraries
-- 💞️ I’m looking to collaborate on a big project
+- 👀 I’m interested in web development
+- 💞️ I’m looking to collaborate on challenging and large prjects
 - 📫 How to reach me: My Telegram account - t.me/rasulmadrid
 
 <!---
