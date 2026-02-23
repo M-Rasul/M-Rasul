@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @M-Rasul
-- 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on challenging and large prjects
+- 👀 I’m a JavaScript dev with MERN stack
 - 📫 How to reach me: My Telegram account - t.me/rasulmadrid
 
 <!---
